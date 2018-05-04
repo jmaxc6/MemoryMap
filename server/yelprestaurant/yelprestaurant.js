@@ -1,6 +1,5 @@
 const yelp = require('yelp-fusion');
 const _ = require('lodash');
-const API_Key = '-0J7XMe_dh6ASo3mVtCeuiye30r_dktCYSio5i690lRIWlG_lU5FP4fZpI0v_-kWT1CyICQt2eaWJ1SzFksYlOVJr0oNfCrV3bpLq92k_foLpjCONZ-LGu4VlC-5WnYx'
 
 // const client = yelp.client(API_Key)
 // let yelpConfig;

@@ -3,7 +3,7 @@ node_modules/
 config.js
 
 # API Keys
-*creds
+server/yelprestaurant/creds.js
 
 # Compiled Dirs (http://nodejs.org/api/addons.html)
 build/
