@@ -1,0 +1,16 @@
+bundle.js
+node_modules/
+config.js
+
+# API Keys
+*creds
+
+# Compiled Dirs (http://nodejs.org/api/addons.html)
+build/
+
+#.DS_Store
+react-client/.DS_Store
+server/.DS_Store
+
+#database
+database-mongo/data
