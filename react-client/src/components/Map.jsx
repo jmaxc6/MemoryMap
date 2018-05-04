@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import { withGoogleMap, GoogleMap, Marker} from 'react-google-maps';
 
-const GOOGLE_API_KEY = 'AIzaSyDUHzywZSyFliHQc4QL696aRdPGRhy1e0Q';
 const googleMapURL="https://maps.googleapis.com/maps/api/js?v=3.27&libraries=places,geometry&key=" + GOOGLE_API_KEY;
 
 class Map extends Component {
